@@ -13,7 +13,8 @@ Welcome to my frontend development repository! This space serves as a log of my 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
+![Status](https://img.shields.io/badge/Status-Actively_Learning-brightgreen?style=for-the-badge&logo=github)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Saumyasingh01.html-practice)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,4 +27,4 @@ Welcome to my frontend development repository! This space serves as a log of my 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Saumyasingh01/html-practice.git](https://github.com/Saumyasingh01/html-practice.git)
+   git clone https://github.com/Saumyasingh01/html-practice.git
